@@ -1,3 +1,3 @@
 # NoteNet
 
-(NoteNet website)[https://basicnetapp.github.io/]
+[NoteNet Website](https://basicnetapp.github.io/)
