@@ -1,0 +1,30 @@
+﻿<Application x:Class="NoteNet.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/NoteNet;component/UI/Languages/Lang_en-GB.xaml"/>
+                
+                <ResourceDictionary Source="/NoteNet;component/UI/AppThemes/LightTheme.xaml"/>
+
+                <ResourceDictionary Source="/NoteNet;component/UI/Icons/Add.xaml"/>
+                <ResourceDictionary Source="/NoteNet;component/UI/Icons/Arrow.xaml"/>
+                <ResourceDictionary Source="/NoteNet;component/UI/Icons/DragNDrop.xaml"/>
+                <ResourceDictionary Source="/NoteNet;component/UI/Icons/Icon.xaml"/>
+                <ResourceDictionary Source="/NoteNet;component/UI/Icons/Options.xaml"/>
+
+                <ResourceDictionary Source="/NoteNet;component/UI/Controls/Button.xaml"/>
+                <ResourceDictionary Source="/NoteNet;component/UI/Controls/CheckBox.xaml"/>
+                <ResourceDictionary Source="/NoteNet;component/UI/Controls/ComboBox.xaml"/>
+                <ResourceDictionary Source="/NoteNet;component/UI/Controls/ContextMenu.xaml"/>
+                <ResourceDictionary Source="/NoteNet;component/UI/Controls/MenuItem.xaml"/>
+                <ResourceDictionary Source="/NoteNet;component/UI/Controls/Note.xaml"/>
+                <ResourceDictionary Source="/NoteNet;component/UI/Controls/ScrollBars.xaml"/>
+                <ResourceDictionary Source="/NoteNet;component/UI/Controls/TextBox.xaml"/>
+                <ResourceDictionary Source="/NoteNet;component/UI/Controls/ToolTip.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

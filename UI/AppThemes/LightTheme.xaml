@@ -1,0 +1,55 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <SolidColorBrush x:Key="Background" Color="#EEEEEE"/>
+    <SolidColorBrush x:Key="BorderColor" Color="#B4B4B4"/>
+
+    <!-- BUTTONS -->
+    <SolidColorBrush x:Key="BackgroundButton" Color="#EEEEEE"/>
+    <SolidColorBrush x:Key="BackgroundButtonHover" Color="#FAFAFA"/>
+    <SolidColorBrush x:Key="BackgroundButtonClick" Color="#F7F7F7"/>
+
+    <!-- NOTES -->
+    <SolidColorBrush x:Key="BackgroundButtonNote" Color="#DDDDDD"/>
+    <SolidColorBrush x:Key="BackgroundButtonNoteHover" Color="#F2F2F2"/>
+    <SolidColorBrush x:Key="BackgroundButtonNoteClick" Color="#F9F9F9"/>
+    <SolidColorBrush x:Key="BackgroundNoteZone" Color="#F2F2F2"/>
+    <SolidColorBrush x:Key="BackgroundNoteTitle" Color="#DDDDDD"/>
+
+    <!-- SCROLLBAR -->
+    <SolidColorBrush x:Key="ScrollBarColor" Color="#448A8A8A"/>
+    <SolidColorBrush x:Key="ScrollBarsActive" Color="#8A8A8A"/>
+
+    <!-- FOREGROUND -->
+    <SolidColorBrush x:Key="ForegroundColor" Color="#1A1A1A"/>
+
+    <!-- SHADOW -->
+    <Color x:Key="Shadow">#000000</Color>
+
+    <!-- TEXT -->
+    <SolidColorBrush x:Key="SelectionText" Color="#CECECE"/>
+    <SolidColorBrush x:Key="BorderAddNote" Color="#DDDDDD"/>
+    <SolidColorBrush x:Key="Border" Color="#DDDDDD"/>
+    
+    <!-- CONTEXT MENU -->
+    <SolidColorBrush x:Key="ContextMenuBackground" Color="#F9F9F9"/>
+    <SolidColorBrush x:Key="ContextMenuBorder" Color="#EAEAEA"/>
+    <SolidColorBrush x:Key="ContextMenuHover" Color="#F0F0F0"/>
+    <SolidColorBrush x:Key="ContextMenuClick" Color="#F3F3F3"/>
+
+    <!-- TOOLTIP -->
+    <SolidColorBrush x:Key="ToolTipBackground" Color="#F9F9F9"/>
+    <SolidColorBrush x:Key="ToolTipBorder" Color="#DADADA"/>
+    
+    <!-- COMBOBOX -->
+    <SolidColorBrush x:Key="CBBackground" Color="#FEFEFE"/>
+    <SolidColorBrush x:Key="CBBorder" Color="#E8E8E8"/>
+    <SolidColorBrush x:Key="CBHover" Color="#FAFAFA"/>
+    <SolidColorBrush x:Key="CBClick" Color="#F7F7F7"/>
+    
+    <!-- COMBOBOX ITEM-->
+    <SolidColorBrush x:Key="CBIBackground" Color="#FEFEFE"/>
+    <SolidColorBrush x:Key="CBIHover" Color="#F0F0F0"/>
+    <SolidColorBrush x:Key="CBIClick" Color="#F3F3F3"/>
+
+</ResourceDictionary>
