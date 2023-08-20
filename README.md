@@ -1,3 +1,3 @@
 # NoteNet
 
-[NoteNet Website](https://basicnetapp.github.io/)
+A simple way to take notes on Windows
